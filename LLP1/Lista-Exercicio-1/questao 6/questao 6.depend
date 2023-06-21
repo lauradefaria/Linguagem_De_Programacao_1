@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1563683260 source:c:\users\acer\documents\2° perÍodo\llp1\lista 1\questao 6\main.cpp
+	<iostream>
+	"ControleDePagamentos.h"
+	"Pagamentos.h"
+
+1563687410 c:\users\acer\documents\2° perÍodo\llp1\lista 1\questao 6\include\controledepagamentos.h
+	"Pagamentos.h"
+	<iostream>
+
+1563386568 c:\users\acer\documents\2° perÍodo\llp1\lista 1\questao 6\include\pagamento.h
+	<iostream>
+
+1563687054 c:\users\acer\documents\2° perÍodo\llp1\lista 1\questao 6\include\pagamentos.h
+	<iostream>
+
+1563687410 source:c:\users\acer\documents\2° perÍodo\llp1\lista 1\questao 6\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+	"Pagamentos.h"
+	<iostream>
+	<stdio.h>
+
+1563687054 source:c:\users\acer\documents\2° perÍodo\llp1\lista 1\questao 6\src\pagamentos.cpp
+	"Pagamentos.h"
+	<iostream>
+

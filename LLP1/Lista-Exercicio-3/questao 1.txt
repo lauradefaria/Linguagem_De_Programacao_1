@@ -1,0 +1,18 @@
+1- 
+a-) Polimorfismo é um conceito abstrato que, de forma sucinta, diz que algo pode responder de formas diferentes para uma mesma situação.
+Este mesmo conceito é aplicado em POO, em que uma classe Pai/Super classe possui métodos que receberão implantações de formas diferentes, de acordo com a classe derivada.
+
+b-)
+Animal *animais[6]; 
+
+animais[0] = new Cachorro();
+animais[1] = new Gato();
+animais[2] = new Lobo();
+animais[3] = new Leao();
+animais[4] = new Hipopotamo();
+animais[5] = new Animal();
+ 
+for (int i = 0; i < 6; i++){ 
+   animais[i]->comer();
+   animais[i]->dormir(); 
+}
